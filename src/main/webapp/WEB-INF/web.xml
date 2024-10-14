@@ -5,6 +5,6 @@
          version="5.0">
     <error-page>
         <error-code>403</error-code>
-        <location>showErrorPage</location>
+        <location>/showErrorPage</location>
     </error-page>
 </web-app>
