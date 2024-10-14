@@ -5,6 +5,9 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-
+    <h1>Exception Model</h1>
+    <ul>
+        <li><a href="404error"></a></li>
+    </ul>
 </body>
 </html>
