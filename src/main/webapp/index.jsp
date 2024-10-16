@@ -5,10 +5,11 @@
     <title>405 Error</title>
 </head>
 <body>
-    <h2>405 Error</h2>
+    <h1>Exception Model</h1>
     <ul>
-        <li><a href="show405error">405에러확인</a> </li>
         <li><a href="show403error">403에러 확인</a></li>
+        <li><a href="404error">404에러 확인</a></li>
+        <li><a href="show405error">405에러확인</a> </li>
     </ul>
 </body>
 </html>
