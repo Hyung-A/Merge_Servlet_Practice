@@ -1,4 +1,4 @@
-package com.ohgiraffers.exception;
+package com.ohgiraffers.mergepractice;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
