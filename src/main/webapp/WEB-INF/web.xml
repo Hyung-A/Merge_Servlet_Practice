@@ -7,4 +7,13 @@
         <error-code>404</error-code>
         <location>/showErrorPage</location>
     </error-page>
+    <error-page>
+        <error-code>405</error-code>
+        <location>/showErrorPage</location>
+    </error-page>
+    <error-page>
+        <error-code>403</error-code>
+        <location>/showErrorPage</location>
+    </error-page>
 </web-app>
+
